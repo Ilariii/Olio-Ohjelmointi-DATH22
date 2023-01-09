@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8F00B58B-0014-4307-BFF2-11B8E196DB68}</ProjectGuid>
+    <ProjectGuid>{F4C18E0A-E637-48B8-B44F-A9921180F9D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>olio_ohjelmointi</RootNamespace>
     <AssemblyName>olio-ohjelmointi</AssemblyName>

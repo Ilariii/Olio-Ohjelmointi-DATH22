@@ -10,7 +10,6 @@ namespace olio_ohjelmointi
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
