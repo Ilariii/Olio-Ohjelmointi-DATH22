@@ -1,0 +1,3 @@
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\albumi\obj\Debug\albumi.csproj.AssemblyReference.cache
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\albumi\obj\Debug\albumi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\albumi\obj\Debug\albumi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\obj\Debug\Harjoitus 5 laskin.csproj.AssemblyReference.cache
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\obj\Debug\Harjoitus 5 laskin.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\obj\Debug\Harjoitus 5 laskin.csproj.CoreCompileInputs.cache
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\bin\Debug\Harjoitus 5 laskin.exe.config
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\bin\Debug\Harjoitus 5 laskin.exe
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\bin\Debug\Harjoitus 5 laskin.pdb
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\obj\Debug\Harjoitus 5 laskin.exe
+C:\Users\ilari.kokkonen\source\repos\Ilariii\Olio-Ohjelmointi-DATH22\Harjoitus 5 laskin\obj\Debug\Harjoitus 5 laskin.pdb
